@@ -59,5 +59,29 @@
         }
       ]
     }
+    ,
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build and test RESTful APIs using the FastAPI framework in Python.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-08-31"
+    }
+    ,
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Working with strings, file I/O, and text manipulation in Python.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2025-08-31"
+    }
+    ,
+    {
+      "id": "data-structures-python",
+      "title": "Data Structures in Python",
+      "description": "Lists, dictionaries, sets, and tuples in Python.",
+      "path": "assignments/data-structures-python",
+      "dueDate": "2025-08-31"
+    }
   ]
 }
